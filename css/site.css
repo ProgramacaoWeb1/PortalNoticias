@@ -1,0 +1,33 @@
+
+#main-navbar{
+    position: fixed;
+    width: 100%;
+    font-size: 1.2rem;
+    top: 0;
+    display: flex;
+    background: #cc9ee8;
+    left: 0;
+    right: 0;
+}
+#main-navbar ul{
+    list-style: none;
+    display: inline-flex;
+    height: 4rem;
+    margin-left: 18rem;
+    width: 54%;
+}
+
+#main-navbar ul li{
+    padding: 0 2rem;
+    margin: auto 0;
+    cursor: pointer;
+}
+
+
+
+#site-page{
+    margin: 6.3rem 20rem 0 20rem;
+    padding: 2rem;
+    height: 100%;
+    display: flex;
+}
