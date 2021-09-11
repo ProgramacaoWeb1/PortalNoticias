@@ -96,3 +96,36 @@ body{
     height: 100%;
     display: flex;
 }
+#title_center {
+  text-align: center;
+  font-size: 38px
+}
+#title_center_color {
+  text-align: center;
+  color: red;
+}
+img.center_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#size{
+    font-size: 30px
+}
+#center_video {
+  text-align: center;
+}
+. {
+  text-align: center; 
+
+}
+
+#title_center_color2 {
+  text-align: center;
+  color: green;
+}
+#size_center{
+    font-size: 30px;
+    text-align: center;
+
+}
